@@ -18,5 +18,5 @@ Enjoy it!
 
 ## Screenshots
 
-![App Screenshot](/screenshots/screenshot1.jpg?raw=true)
-![App Screenshot](/screenshots/screenshot2.jpg?raw=true)
+![App Screenshot](/screenshots/screenshot1.png?raw=true)
+![App Screenshot](/screenshots/screenshot2.png?raw=true)
